@@ -1,0 +1,8 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+
+
+#include "ProjectGameModeBase.h"
+
+AProjectGameModeBase::AProjectGameModeBase()
+{
+}
